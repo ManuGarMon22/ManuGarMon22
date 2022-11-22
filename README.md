@@ -3,7 +3,7 @@
 
 # Juancarlos Manuel Garcia Monzon 
 
-## What i know?:
+## What i know?
 
 <h3 align="left">Programming languages:</h3>
 <p align="left"> 
@@ -31,7 +31,7 @@
 <br/>
 
 
-## Contact me
+## Contact me!
 <p align="left">
 
 <a href="https://linkedin.com/in/j-manuel-garcia-m/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="manu garcia" height="30" width="40" /> LinkedIn</a>
