@@ -6,11 +6,11 @@
 Hola! Soy un Full Stack Developer. 
 Inicié mi carrera en la programación a finales de 2019 en la Universidad de San Carlos de Guatemala, lo cual despertó mi interés y me llevo a participar en el Bootcamp SoyHenry en el cual aprendí nuevas tecnologías, y afiance conocimiento de JavaScript y desarrollé conocimiento de desarrollador web de una manera muy completa. 
 
-<!-- ## What i know? -->
-## Mis Conocimientos
+## What i know?
+<!-- ## Mis Conocimientos -->
 
-<!-- <h3 align="left">Programming languages:</h3> -->
-<h3 align="left">Lenguajes de Programación:</h3>
+<h3 align="left">Programming languages:</h3>
+<!-- <h3 align="left">Lenguajes de Programación:</h3> -->
 
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -36,8 +36,8 @@ Inicié mi carrera en la programación a finales de 2019 en la Universidad de Sa
 
 <br/>
 
-
-## Contactame
+## Contact with me
+<!-- ## Contactame -->
 <p align="left">
 
 <a href="https://linkedin.com/in/j-manuel-garcia-m/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="manu garcia" height="30" width="40" /> LinkedIn</a>
