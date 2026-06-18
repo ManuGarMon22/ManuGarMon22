@@ -2,8 +2,6 @@
 
 # Juancarlos García 
 
-##  Sobre mi / About me
-
 <details open>
 <summary >🇬🇧/🇺🇸 English version</summary>
 
