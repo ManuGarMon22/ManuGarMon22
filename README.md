@@ -1,51 +1,66 @@
 
 
+# Juancarlos García 
 
-# Juancarlos Manuel Garcia Monzon 
+##  Sobre mi / About me
 
-Hola! Soy un Full Stack Developer. 
-Inicié mi carrera en la programación a finales de 2019 en la Universidad de San Carlos de Guatemala, lo cual despertó mi interés y me llevo a participar en el Bootcamp SoyHenry en el cual aprendí nuevas tecnologías, y afiance conocimiento de JavaScript y desarrollé conocimiento de desarrollador web de una manera muy completa. 
+<details>
+<summary open='true'>🇬🇧/🇺🇸 English version</summary>
 
-## What i know?
-<!-- ## Mis Conocimientos -->
+## About me
+I'm a Full Stack Developer with 3+ years of experience, focused
+primarily on JavaScript and React/Next.js. I currently work in the
+e-commerce sector in Guatemala, where I've also built backend
+solutions with C# and ASP.NET, including payment integrations and
+microservices architectures.
 
-<h3 align="left">Programming languages:</h3>
-<!-- <h3 align="left">Lenguajes de Programación:</h3> -->
-
-<p align="left"> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-
-<h3 align="left">FrontEnd:</h3>
-<p align="left">
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css3" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="react" width="40" height="40"/> </a> 
-<a href="https://redux.js.org" target="_blank"> <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="redux" width="40" height="40"/> </a> 
-
-</p>
-
-<h3 align="left">BackEnd:</h3>
-<p align="left"> 
-<a href="https://nodejs.org" target="_blank"> <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" alt="nodejs" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank"> <img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" alt="express" height="40"/> </a> 
-<a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" alt="sequelize" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a>
-
-<br/>
-
-## Contact with me
-<!-- ## Contactame -->
-<p align="left">
-
-<a href="https://linkedin.com/in/j-manuel-garcia-m/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="manu garcia" height="30" width="40" /> LinkedIn</a>
-
-<a href="mailto:garcia.monzon.jm@gmail.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="carlos salvador díaz" height="30" width="40" /> garcia.monzon.jm@gmail.com</a>
-</p>
+I enjoy solving complex problems and I'm always learning
 
 
-<!--   **Mail**: garcia.monzon.jm@gmail.com
-  
-(https://www.linkedin.com/in/j-manuel-garcia-m/) -->
+
+
+</details>
+
+<details>
+<summary>🇪🇸 Versión en Español (clic para expandir)</summary>
+
+## Sobre mí
+
+Soy Full Stack Developer con más de 3 años de experiencia, enfocado
+principalmente en JavaScript y React/Next.js. Actualmente trabajo en
+el sector e-commerce en Guatemala, donde también he construido
+soluciones backend con C# y ASP.NET, incluyendo integraciones de
+pagos y arquitecturas de microservicios.
+
+Disfruto resolver problemas complejos y seguir aprendiendo
+
+</details>
+
+## My stack
+
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=flat&logo=javascript&logoColor=F7DF1E)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+
+
+**Backend**
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+**Base de datos**
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+
+
+## 🔗 Links
+<!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/) -->
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/j-manuel-garcia-m/)
+[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:garcia.monzon.jm@gmail.com?subject=Portfolio%20Inquiry&body=Hello%20Juancarlos,)
+
