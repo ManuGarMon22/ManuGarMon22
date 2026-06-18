@@ -4,8 +4,8 @@
 
 ##  Sobre mi / About me
 
-<details>
-<summary open='true'>🇬🇧/🇺🇸 English version</summary>
+<details open>
+<summary >🇬🇧/🇺🇸 English version</summary>
 
 ## About me
 I'm a Full Stack Developer with 3+ years of experience, focused
